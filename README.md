@@ -14,6 +14,10 @@ Personal GitHub profile showcasing projects, contributions, and skills
 - **Other Tools:** Git, GitHub, REST APIs  
 
 ##  Featured Projects 
+- EventEase – Smart College Event Manager | React, Firebase, Gemini API January 2026
+– Created a centralized web app during TechSprint Hackathon (NBN STIC GDG) to streamline campus event
+coordination.
+– Used Firebase Realtime DB and Auth for live updates, secure logins, and role-based access for organizers and volunteers.
 
 ##  Currently Learning
 - Advanced MERN stack patterns  
