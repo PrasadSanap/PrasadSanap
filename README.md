@@ -1,4 +1,4 @@
-# PrasadSanap-
+# PrasadSanap
 Personal GitHub profile showcasing projects, contributions, and skills
 # Hi, I'm Prasad 
 
