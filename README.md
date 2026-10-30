@@ -53,7 +53,7 @@ I'm a third-year Computer Engineering student at NBN Sinhgad Technical Institute
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ### 1. Cooperative Gig Services Platform
 
